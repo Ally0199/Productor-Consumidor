@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1635120185 source:c:\users\alondra\onedrive\6° semestre cucei\seminario de uso, adapatacion y explotacion de sistemas operativos\productor-consumidor\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<cstdlib>
+	<stdio.h>
+	"Productor.h"
+	"Consumidor.h"
+
+1634952004 source:c:\users\alondra\onedrive\6° semestre cucei\seminario de uso, adapatacion y explotacion de sistemas operativos\productor-consumidor\src\productor.cpp
+	"Productor.h"
+
+1634951814 c:\users\alondra\onedrive\6° semestre cucei\seminario de uso, adapatacion y explotacion de sistemas operativos\productor-consumidor\include\productor.h
+
+1634951841 source:c:\users\alondra\onedrive\6° semestre cucei\seminario de uso, adapatacion y explotacion de sistemas operativos\productor-consumidor\src\consumidor.cpp
+	"Consumidor.h"
+
+1634948242 c:\users\alondra\onedrive\6° semestre cucei\seminario de uso, adapatacion y explotacion de sistemas operativos\productor-consumidor\include\consumidor.h
+
